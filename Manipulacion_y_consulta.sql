@@ -1,5 +1,5 @@
 
--- *********************************** Micro desafío - Paso 1:******************************
+-- *********************************** Micro desafío - Paso 1:*********************************
 
 -- Insertar en la tabla genres un nuevo género con los siguientes datos:
 -- name: Investigación, ranking: 13, active: 1
